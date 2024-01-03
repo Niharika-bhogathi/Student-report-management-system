@@ -1,2 +1,2 @@
 # Student-report-management-system
-This is a sample project to manage student records and done using C language
+This is a simple project to manage student records done using C language
